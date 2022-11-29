@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Hey! I'm Gayan  and I'm a DevOps-engineer and Golang-developer who loves to work with Linux, AWS Cloud, APIs and awesome people like you ... 
+Hey! I'm Gayan
+I'm a DevOps-engineer and Golang-developer who loves to work with Linux, AWS Cloud, APIs and awesome people like you ... 
+
+
 
 
 <!--
